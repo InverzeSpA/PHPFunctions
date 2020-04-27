@@ -1,7 +1,7 @@
 /**
  * validate string is numeric value
  * 
- * @param string $address
+ * @param string $value
  * @return throw error if foind any inconsistancy
  */
 if (!function_exists('validate_numeric_value')) {
